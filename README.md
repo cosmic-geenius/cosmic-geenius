@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm passionate about exploring the cosmos of code 
 - 🤔 I’m looking for help with **scaling decentralized applications** and would appreciate any guidance or tips on optimizing performance.
 - 📚 Check out my guides:
   - **[Taiko Node Guide](https://github.com/cosmic-geenius/TaikoNodeGuide)** - A comprehensive guide for setting up and managing a Taiko node.
+  - **[Nubit Guide](https://github.com/cosmic-geenius/Nubit-da)** - API methods of the Nubit Node
   - **[0gNodeGuide](https://github.com/cosmic-geenius/0gNodeGuide)** - Step-by-step instructions for setting up a 0g node.
   - **[0gStorageNodeGuide](https://github.com/cosmic-geenius/0gStorageNodeGuide)** - Guide for configuring and maintaining a 0g storage node.
 - 💬 Ask me about **blockchain infrastructure, node setup, and decentralized networks**, I love discussing cutting-edge technologies and decentralized solutions.
